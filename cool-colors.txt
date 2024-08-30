@@ -1,3 +1,5 @@
 blue
 green 
 purple
+cyan
+midnight blue
